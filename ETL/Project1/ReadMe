@@ -1,0 +1,8 @@
+In this project, we are performing an ETL (Extract, Transform, Load) process where we extract data from various file formats such as CSV, JSON, and XML, transform it as needed,
+and then load all the processed data into a single consolidated CSV file.
+
+csv ----|
+        |
+json ---|----- one single file --- csv
+        |
+XML ----|
